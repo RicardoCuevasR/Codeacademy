@@ -1,4 +1,8 @@
 # Codeacademy
 Projects and short codes
 
-Getting some changes in my README to commit with VSCode
+Two folders.
+One for short python code made along normal training
+The second will contain big projects.
+
+daaaa
